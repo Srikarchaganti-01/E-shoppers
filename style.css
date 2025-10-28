@@ -212,6 +212,9 @@ span{
     background-color: transparent;
     height: auto;
 }
+.shopping_area {
+    flex: 1; 
+}
 /* shop box common  */
 .box{
     background-color: white;
@@ -419,5 +422,11 @@ ul{
     padding-right: 5px;
     text-decoration: none;
     color: white;
+}
+footer {
+    position: relative;
+    width: 100%;
+    clear: both;
+    margin-top: auto; 
 }
 

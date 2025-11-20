@@ -205,7 +205,7 @@ span{
     padding-bottom: 50px;
 }
 .shopsection{
-    width: 94%;
+    width: 97%;
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
@@ -434,6 +434,7 @@ footer {
     clear: both;
     margin-top: auto; 
 }
+
 
 
 

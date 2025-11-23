@@ -391,9 +391,8 @@ ul{
 }
 .footp4{
     background-color: #131a22;
-    height: 460px;
     width: 100%;
-
+    padding-bottom: 30px;
 }
 .hai{
     margin-left: 3%;
@@ -416,9 +415,10 @@ ul{
 .footp5{
     background-color:#131a22;
     color: white;
-    height: 77px;
     font-size: 0.7rem;
     text-align: center;
+    padding: 20px;
+    position: relative;
 }
 .pages{
     padding: 10px;
@@ -434,6 +434,7 @@ footer {
     clear: both;
     margin-top: auto; 
 }
+
 
 
 
